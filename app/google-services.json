@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "793818044532",
+    "firebase_url": "https://provafinal-e8435.firebaseio.com",
+    "project_id": "provafinal-e8435",
+    "storage_bucket": "provafinal-e8435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793818044532:android:bfb62fd1e0e6e4f5",
+        "android_client_info": {
+          "package_name": "com.epumer.jdarestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793818044532-2d7cg9vg1jhf91qphhp95m2clcnk7muf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epumer.jdarestaurant",
+            "certificate_hash": "a6e0303f3b82f746f22f54d52f3b7ae07e5c7068"
+          }
+        },
+        {
+          "client_id": "793818044532-g13pfhk5i88mmroblkuq75bekbk4c9uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy6caBk3l6CIcG8fkT_fAxQ62vlSgqYIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793818044532-g13pfhk5i88mmroblkuq75bekbk4c9uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
